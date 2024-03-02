@@ -8,10 +8,6 @@ public class SemisMenu {
     }
 }
 
-class Drink{
-
-}
-
 class SideItem{
 
 }
