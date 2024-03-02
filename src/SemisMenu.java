@@ -7,7 +7,3 @@ public class SemisMenu {
 
     }
 }
-
-class SideItem{
-
-}
