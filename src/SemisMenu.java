@@ -1,9 +1,6 @@
 public class SemisMenu {
-    private double mealPrice;
-    private String burgerName;
-    private String drinkSize;
-
-    public SemisMenu(){
-
-    }
+    private Burger burger;
+    private Drink drink;
+    private SideItem sideItem;
+    public SemisMenu(){}
 }

@@ -8,6 +8,10 @@ public class ExtraToppings {
         this.type = type;
         this.price = price;
     }
+
+    public double getPrice() {
+        return price;
+    }
 }
 
 class BBQSauce extends ExtraToppings{
